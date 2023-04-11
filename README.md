@@ -10,6 +10,3 @@ PSNR was used as a loss function.<br>
 
 ### __Training Details__:
 The model was implemented in Tensor-Flow 2, with NVidia Tesla K80 GPU for training. The GOPRO dataset was used for training as well as testing our model.
-
-
-### __Sample Result__:
